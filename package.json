@@ -9,6 +9,8 @@
   "author": "Louise Beh",
   "license": "ISC",
   "dependencies": {
+    "ejs": "^2.3.1",
+    "express": "^4.12.3",
     "hapi": "^8.4.0"
   },
   "devDependencies": {
