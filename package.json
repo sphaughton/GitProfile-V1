@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Louise Beh",
+  "author": "Sean Haughton",
   "license": "ISC",
   "dependencies": {
     "ejs": "^2.3.1",
@@ -30,10 +30,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/louisebeh/GitProfile-V1.git"
+    "url": "https://github.com/sphaughton/GitProfile-V1.git"
   },
   "bugs": {
-    "url": "https://github.com/louisebeh/GitProfile-V1/issues"
+    "url": "https://github.com/sphaughton/GitProfile-V1/issues"
   },
-  "homepage": "https://github.com/louisebeh/GitProfile-V1"
+  "homepage": "https://github.com/sphaughton/GitProfile-V1"
 }
